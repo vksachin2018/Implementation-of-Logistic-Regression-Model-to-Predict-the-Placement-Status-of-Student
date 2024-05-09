@@ -8,16 +8,19 @@ To write a program to implement the the Logistic Regression Model to Predict the
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1.Import the required packages and print the present data.
+STEP 1 START
 
-2. Print the placement data and salary data.
+STEP 2:Import the required packages and print the present data.
 
-3.Find the null and duplicate values.
+STEP 3: Print the placement data and salary data.
 
-4.Using logistic regression find the predicted values of accuracy , confusion matrices.
+STEP 4:Find the null and duplicate values.
 
-5.Display the results.
+STEP 5:Using logistic regression find the predicted values of accuracy , confusion matrices.
 
+STEP 6:Display the results.
+
+STEP 7:
 
 ## Program:
 ```
@@ -84,28 +87,37 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ## Output:
 ## Placement data:
-![267753589-cba641d7-4b64-474a-9df3-f8047b4ddc21](https://github.com/vksachin2018/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149366019/ba7d4c8e-99b1-4e57-b379-f84bed3f2530)
-## Salary data:
-![267753686-b69592e3-fb46-446d-87a4-60e8dabf45a1](https://github.com/vksachin2018/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149366019/c473b07a-530d-4bb4-aff6-01c7a75c9f03)
-## Checking the null() function:
-![267753782-196a08f0-0571-40f2-bfdf-b6e1d2b4fa8f](https://github.com/vksachin2018/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149366019/dd364c98-00cf-41f3-983a-ef9135b990e5)
-## Data duplicate:
-![267753891-3efb2a8c-6c60-4466-99b2-2c3c7b7a39b4](https://github.com/vksachin2018/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149366019/2fe6006f-bef6-408a-accd-4d1d0c7085f7)
-## Print data:
-![267753963-37d05f23-2187-49d2-a871-7dbf5d7baca9](https://github.com/vksachin2018/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149366019/1bda71c7-c231-410c-82b4-7eeea1bcb318)
-## Data-status:
-![267754049-d0b24ebb-4d7a-4956-b6e5-b87f65ccbeeb](https://github.com/vksachin2018/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149366019/d350be5f-b909-477b-834b-4b8d978ee62c)
-## y_prediction array:
-![267754328-81a5cd80-1fa0-48d8-a838-567b6e7a6676](https://github.com/vksachin2018/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149366019/82111a9e-2a73-4d63-9c5a-b8280dc281da)
-## Accuracy value:
-![267754448-1ca21819-8baa-4312-aae8-1b094fe75ea6](https://github.com/vksachin2018/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149366019/7bd3cee2-7770-4296-ad92-c1449a32609c)
-## Confusion arrray:
-![267754513-675efabe-006d-463a-b5f0-0cc4354ca37a](https://github.com/vksachin2018/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149366019/a99de109-5618-429f-99cc-e4980e98e20d)
-## Classification Report:
-![267754597-be3ab929-d71c-492a-8adc-9a054cf08983](https://github.com/vksachin2018/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149366019/301072f4-ea02-4baf-aab7-9db760642e10)
-## Prediction of LR:
-![267754663-295b82c5-385c-4832-9d92-282a651946cb](https://github.com/vksachin2018/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149366019/70c80952-2660-4692-b1f5-3f4e647ee444)
+![ml401](https://github.com/vksachin2018/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149366019/d4d1f77d-1b23-4c69-9bbc-4726df13f305)
 
+## Salary data:
+![ml402](https://github.com/vksachin2018/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149366019/1efca0bf-f897-44f2-9db8-1bbc450af8ec)
+
+## Checking the null() function:
+![ml403](https://github.com/vksachin2018/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149366019/e63e192b-ac26-4f01-973a-4dedf3ff4949)
+
+## Data duplicate:
+![ml404](https://github.com/vksachin2018/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149366019/e4ff9aae-b1e6-4caf-a232-b15f60a4d9b3)
+
+## Print data:
+![ml405](https://github.com/vksachin2018/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149366019/5cf2ee36-dbec-498d-accb-ed3ac9746107)
+
+## Data-status:
+![ml406](https://github.com/vksachin2018/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149366019/5eb296a8-b76f-4faa-83fc-432fd122b2ac)
+
+## y_prediction array:
+![ml407](https://github.com/vksachin2018/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149366019/8bde5ace-3f51-40ad-847a-4bf369333aed)
+
+## Accuracy value:
+![ml408](https://github.com/vksachin2018/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149366019/bcbdd699-d946-46d2-b254-128ca3d86b25)
+
+## Confusion arrray:
+![ml409](https://github.com/vksachin2018/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149366019/70c10e6e-bb94-44fb-a34b-cf070ac11cd5)
+
+## Classification Report:
+![ml410](https://github.com/vksachin2018/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149366019/d02e5ae4-e4f4-492c-bc9b-079718c10032)
+
+## Prediction of LR:
+![ml411](https://github.com/vksachin2018/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/149366019/4fa35b90-b216-4504-ad91-f3a8d0c7cff3)
 
 
 ## Result:
