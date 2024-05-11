@@ -20,7 +20,7 @@ STEP 5:Using logistic regression find the predicted values of accuracy , confusi
 
 STEP 6:Display the results.
 
-STEP 7:
+STEP 7 stop
 
 ## Program:
 ```
